@@ -4,8 +4,8 @@ from pathlib import Path
 # =========================
 # CONFIGURACIÓN
 # =========================
-INPUT_FILE = "farmacie_roma.csv"
-OUTPUT_FILE = "farmacie_roma_maps.csv"
+INPUT_FILE = "farmacie_lombardia_milano_provincia.csv"
+OUTPUT_FILE = "farmacie_lombardia_milano_provincia_maps.csv"
 
 COUNTRY = "Italia"
 
